@@ -13,7 +13,7 @@ TransJakarta merupakan pionir sistem Bus Rapid Transit (BRT) di kawasan Asia Ten
 <li>Menganalisa penggunaan metode pembayaran</li>
 
 </ul>
-
+#Deskripsi data
 Transjakarta.csv
 1.	transID: Unique transaction id for every transaction
 2.	payCardID: Customers main identifier. The card customers use as a ticket for entrance and exit.
